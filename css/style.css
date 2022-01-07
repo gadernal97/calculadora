@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cornflowerblue;
+    height:100vh;
+}
+.conatiner{
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 450px;
+    padding: 5px;
+    border-radius: 50px;
+}
+#primeira{
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
+#segunda{
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
+#terceira{
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
+#quarta{
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
+.botao{
+    width: 70px;
+    height: 70px;
+    border:none;
+    outline: none;
+    box-sizing: border-box;
+    background-color: chartreuse;
+}
+#visor{
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 30px;
+    outline: none;
+    border:none ;
+}
